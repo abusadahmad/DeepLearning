@@ -1,1 +1,1 @@
-# DeepLearning
+# deep_learning_potato_deases_classification
